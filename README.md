@@ -22,6 +22,7 @@ We collect generalized architectural decisions based on categories:
 | Category | Repository |
 | -- | -- |
 | Java | <https://github.com/adr/gadr-java> |
+| LaTeX | <https://github.com/latextemplates/gadr-latex-packages> |
 | Misc | <https://github.com/adr/gadr-misc> |
 
 ADRs taken when designing GADR are recorded at [docs/adr](docs/adr).
