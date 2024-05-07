@@ -26,3 +26,5 @@ We collect generalized architectural decisions based on categories:
 | Misc | <https://github.com/adr/gadr-misc> |
 
 ADRs taken when designing GADR are recorded at [docs/adr](docs/adr).
+
+Scientific paper: [Oliver Kopp and Anita Armbruster: Generalized Markdown Architectural Decision Records: Capturing the Essence of Decisions (short paper). ZEUS 2019: 55-57](https://dblp.org/rec/conf/zeus/KoppA19)
