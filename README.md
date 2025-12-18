@@ -28,3 +28,17 @@ We collect generalized architectural decisions based on categories:
 ADRs taken when designing GADR are recorded at [docs/adr](docs/adr).
 
 Scientific paper: [Oliver Kopp and Anita Armbruster: Generalized Markdown Architectural Decision Records: Capturing the Essence of Decisions (short paper). ZEUS 2019: 55-57](https://dblp.org/rec/conf/zeus/KoppA19)
+
+```bibtex
+@inproceedings{GADR,
+  author       = {Oliver Kopp and Anita Armbruster},
+  title        = {Generalized Markdown Architectural Decision Records: Capturing the Essence of Decisions},
+  booktitle    = {Proceedings of the 11th Central European Workshop on Services and their Composition},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {2339},
+  pages        = {55--57},
+  publisher    = {CEUR-WS.org},
+  year         = {2019},
+  url          = {https://ceur-ws.org/Vol-2339/paper11.pdf},
+}
+```
