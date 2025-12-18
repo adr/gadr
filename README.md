@@ -34,7 +34,7 @@ Scientific paper: [Oliver Kopp and Anita Armbruster: Generalized Markdown Archit
   author       = {Oliver Kopp and Anita Armbruster},
   title        = {Generalized Markdown Architectural Decision Records: Capturing the Essence of Decisions},
   booktitle    = {Proceedings of the 11th Central European Workshop on Services and their Composition},
-  series       = {{CEUR} Workshop Proceedings},
+  series       = {CEUR Workshop Proceedings},
   volume       = {2339},
   pages        = {55--57},
   publisher    = {CEUR-WS.org},
